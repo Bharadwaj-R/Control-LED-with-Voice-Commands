@@ -1,5 +1,5 @@
-# Control LED with Google Assistant  
-### Using Google Assistant voice commands to control an LED  
+# Control LED with Voice Commands   
+### Using voice commands to control an LED  
 <br/>
 
 ***Overview :***  
