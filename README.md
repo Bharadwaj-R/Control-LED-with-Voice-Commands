@@ -27,7 +27,7 @@ This project uses [Blynk IoT platform](https://blynk.io/) and [IFTTT](https://if
 ***Blynk IoT Platform Tutorial :***  
 Watching a video is much fun, rather than reading through an article. Hence, go through [this playlist](https://www.youtube.com/playlist?list=PLruzZCuhcsGNrSxeWer6C0vff7hq37Num) by [Techiesms](https://www.youtube.com/channel/UC7raRsx4ojx3cyXT3x9-PuQ) to understand and learn the basics of Blynk IoT Platform and create your first LED blinking project. It is better if you go though the playlist, especially the [First Project](https://www.youtube.com/watch?v=IKbbvEzZ7wg&list=PLruzZCuhcsGNrSxeWer6C0vff7hq37Num&index=2) and [APIs](https://www.youtube.com/watch?v=uPMibJhrtjE&list=PLruzZCuhcsGNrSxeWer6C0vff7hq37Num&index=5) videos before proceeding further, as the integration of Assistant and IFTTT uses concepts from those videos.  
 
-After creating your first LED blinking project, it's now time to move on a step further and integrate it with Google Assistant.  
+After creating your first LED blinking project, it's now time to move on a step further and integrate it with Google Assistant. Too tired to code the entire stuff from scratch? Head over directly [here]() to find the alternative!  
 <br/>
 
 ***IFTTT Integration :***  
@@ -45,8 +45,8 @@ You'll need to create 2 applets, one for turning on and the other for turning of
 <br/>
 
 ***Setting up Voice Control using Siri :***  
-Setting up Siri for voice commands is not as straight-forward as Google Assistant, since Siri is not available as a direct service in IFTTT. Hence, we use the `iOS Shortcuts` app in addition to IFTTT. Download the IFTTT iOS application from the App Store and then follow the below steps to create a new Shortcut.  
-- Create an IFTTT Applet just as for Google Assistant, but for the trigger, select `Button Widget` instead of Google Assistant. 
+Setting up Siri for voice commands is not as straightforward as Google Assistant, since Siri is not available as a direct service in IFTTT. Hence, we use the `iOS Shortcuts` app in addition to IFTTT. Download the IFTTT iOS application from the App Store and then follow the below steps to create a new Shortcut.  
+- Create an IFTTT Applet, but for the trigger part, select `Button Widget` instead of Google Assistant. 
 - Use the same Blynk API URL and other settings and create an applet.
 - No head over to the shortcuts app and create a new shortcut. 
 - Now add a new action, and select IFTTT app. 
@@ -60,6 +60,10 @@ Voice Commands run in Siri take more time to run than in the Google Assistant, a
 
 ***Versions :***
 - `v1.0.0` - Original Prototype version by [Bharadwaj Routhu](https://github.com/Bharadwaj-R) using NodeMCU - ESP8266  
+<br/>
+
+***Too tired to code the NodeMCU?***  
+Don't worry! A `compiled binary` file is uploaded in the release section, along with the source code `.zip` file, so that you can directly jump in to the IFTTT integration part.  
 <br/>
 
 ***And That's it!!***  
