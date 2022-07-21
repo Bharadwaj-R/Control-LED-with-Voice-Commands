@@ -27,7 +27,7 @@ This project uses [Blynk IoT platform](https://blynk.io/) and [IFTTT](https://if
 ***Blynk IoT Platform Tutorial :***  
 Watching a video is much fun, rather than reading through an article. Hence, go through [this playlist](https://www.youtube.com/playlist?list=PLruzZCuhcsGNrSxeWer6C0vff7hq37Num) by [Techiesms](https://www.youtube.com/channel/UC7raRsx4ojx3cyXT3x9-PuQ) to understand and learn the basics of Blynk IoT Platform and create your first LED blinking project. It is better if you go though the playlist, especially the [First Project](https://www.youtube.com/watch?v=IKbbvEzZ7wg&list=PLruzZCuhcsGNrSxeWer6C0vff7hq37Num&index=2) and [APIs](https://www.youtube.com/watch?v=uPMibJhrtjE&list=PLruzZCuhcsGNrSxeWer6C0vff7hq37Num&index=5) videos before proceeding further, as the integration of Assistant and IFTTT uses concepts from those videos.  
 
-After creating your first LED blinking project, it's now time to move on a step further and integrate it with Google Assistant. Too tired to code the entire stuff from scratch? Head over directly [here]() to find the alternative!  
+After creating your first LED blinking project, it's now time to move on a step further and integrate it with Google Assistant. Too tired to code the entire stuff from scratch? [Click here](https://github.com/Bharadwaj-R/Control-LED-with-Google-Assistant#:~:text=Too%20tired%20to%20code%20the%20NodeMCU%3F) to find the alternative!  
 <br/>
 
 ***IFTTT Integration :***  
