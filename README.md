@@ -44,6 +44,9 @@ Go to [IFTTT website](https://ifttt.com/). Create an account and login if you ar
 You'll need to create 2 applets, one for turning on and the other for turning off the LED. Give a few minutes for the Applet to configure and then open your mobile phone. Try saying the phrase to the Assistant and voila, your LED is now being controlled by voice commands. Similar steps can be followed for Amazon Alexa too. Just replace the Google Assistant search with Alexa and then proceed with the next steps.  
 <br/>
 
+*Update :* As of **August 31st, 2022** Google Assistant integration with IFTTT is not so direct. Setup up new applets using the new Google Assistant v2, and then head over to Google Home app, and then select third party integrations. From there, you can select the IFTTT app. Login in the next prompt with your IFTTT account. Now, you can try the newly setup Applet with Google Assistant and it works fine.  
+<br/>
+
 ***Setting up Voice Control using Siri :***  
 Setting up Siri for voice commands is not as straightforward as Google Assistant, since Siri is not available as a direct service in IFTTT. Hence, we use the `iOS Shortcuts` app in addition to IFTTT. Download the IFTTT iOS application from the App Store and then follow the below steps to create a new Shortcut.  
 - Create an IFTTT Applet, but for the trigger part, select `Button Widget` instead of Google Assistant. 
@@ -60,6 +63,7 @@ Voice Commands run in Siri take more time to run than in the Google Assistant, a
 
 ***Versions :***
 - `v1.0.0` - Original Prototype version by [Bharadwaj Routhu](https://github.com/Bharadwaj-R) using NodeMCU - ESP8266  
+- `v1.0.1` - Incorporated changes to IFTTT and Google Assistant Integrations. No change in the source code.
 <br/>
 
 ***And That's it!!***  
