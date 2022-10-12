@@ -5,9 +5,9 @@
 ***Overview :***  
 This project uses [Blynk IoT platform](https://blynk.io/) and [IFTTT](https://ifttt.com/) Applet to control an LED connected to a NodeMCU via the voice commands. Other voice assistants like Amazon Alexa and Siri can also be used, but the process to integrate Siri with IFTTT is a bit different to that of Alexa and Google Assistant.  
 
-***[Demo Video using Google Assistant](https://drive.google.com/file/d/1Ap0asXn5fzk9Gp_PYVL1dQUu67VbGFpF/view?usp=sharing)***  
+***[Demo Video using Google Assistant](https://drive.google.com/file/d/1LaXWtltU_UG4iZ7Jc7PeFZPJUojB0t5x/view?usp=sharing)***  
 
-***[Demo Video using Siri](https://drive.google.com/file/d/1Ao74JyMBc-s_uZpbO1YhAH_GObMIryAo/view?usp=sharing)***  
+***[Demo Video using Siri](https://drive.google.com/file/d/1LbE70XXWlouO2bTsRDzCNbdVXk9ryo9j/view?usp=sharing)***  
 <br/>
 
 ***Required Components :***  
